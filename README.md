@@ -1,6 +1,6 @@
-# Team Time Tracker
+# Meteor Webpack React Redux boilerplate
 
-A Meteor application using Webpack and React for tracking time spent on tasks in a team.
+A boilerplate to use Webpack, React and Redux with Meteor.
 
 Heavily inspired by https://github.com/jedwards1211/meteor-webpack-react
 
