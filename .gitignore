@@ -1,0 +1,10 @@
+dist
+node_modules
+npm-debug.log
+/webpack/lib
+settings/development/settings.json
+settings/production/mup.json
+settings/production/settings.json
+settings/staging/mup.json
+settings/staging/settings.json
+coverage
